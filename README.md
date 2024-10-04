@@ -44,9 +44,9 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 ### Constancias
 
 ![c1](./assets/c1.png)
-![c1](./assets/c2.png)
-![c1](./assets/c3.png)
-![c1](./assets/c4.png)
+![c2](./assets/c2.png)
+![c3](./assets/c3.png)
+![c4](./assets/c4.png)
 
 ---
 
@@ -57,6 +57,10 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Technologies:** React, Android, Swift UI, NodeJS, Oracle SQL, AWS EC2/S3  
 **Highlights:** Payroll history and ticket follow-up requests, digital signature in processes  
 
+![pb1](./assets/pb1.png)
+![pb2](./assets/pb2.png)
+![pb3](./assets/pb3.png)
+
 ---
 
 **LockitCell - Mobile Financing Management Platform** (2024)  
@@ -64,12 +68,20 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Technologies:** React, React Native, NodeJS, MongoDB, AWS EC2, Stripe, Paypal  
 **Highlights:** Inventory Control, Point of Sale/Payment, WhatsApp Messaging  
 
+![pc1](./assets/pc1.png)
+![pc2](./assets/pc2.png)
+![pc3](./assets/pc3.png)
+
 ---
 
 **Economy - Economic Regionalization Analysis in Mexican Municipalities** (2024)  
 **Position:** Data Analyst  
 **Technologies:** Python, Numpy, Geopandas, Scikit-learn, TensorFlow  
 **Highlights:** Clustering, Map Generation, Affinity/Complexity Analysis  
+
+![pa1](./assets/pa1.png)
+![pa2](./assets/pa2.png)
+![pa3](./assets/pa3.png)
 
 ---
 
@@ -80,3 +92,5 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Databases:** Oracle PL/SQL, SQL Server, PostgreSQL, MongoDB, Azure Cosmos DB  
 **Cloud Management:** Oracle PL/SQL, SQL Server, PostgreSQL, MongoDB, Azure Cosmos DB  
 **Communication and Teamwork:** LEGO LSP, Kanban, Scrum, Asana, GitHub  
+
+![d1](./assets/d1.png)

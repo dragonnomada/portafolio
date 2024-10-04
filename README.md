@@ -57,6 +57,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Technologies:** React, Android, Swift UI, NodeJS, Oracle SQL, AWS EC2/S3  
 **Highlights:** Payroll history and ticket follow-up requests, digital signature in processes  
 
+![pb0](./assets/pb0.png)
 ![pb1](./assets/pb1.png)
 ![pb2](./assets/pb2.png)
 ![pb3](./assets/pb3.png)
@@ -68,6 +69,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Technologies:** React, React Native, NodeJS, MongoDB, AWS EC2, Stripe, Paypal  
 **Highlights:** Inventory Control, Point of Sale/Payment, WhatsApp Messaging  
 
+![pc0](./assets/pc0.png)
 ![pc1](./assets/pc1.png)
 ![pc2](./assets/pc2.png)
 ![pc3](./assets/pc3.png)
@@ -79,6 +81,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 **Technologies:** Python, Numpy, Geopandas, Scikit-learn, TensorFlow  
 **Highlights:** Clustering, Map Generation, Affinity/Complexity Analysis  
 
+![pa0](./assets/pa0.png)
 ![pa1](./assets/pa1.png)
 ![pa2](./assets/pa2.png)
 ![pa3](./assets/pa3.png)

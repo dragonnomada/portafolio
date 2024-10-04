@@ -10,8 +10,7 @@
 **Software Engineer** - UPP (2007)  
 **Bachelor's Degree in Applied Mathematics** - UAM Cuajimalpa (2010)  
 **Master's Degree in Artificial Intelligence** - IPN CIDETEC (2016)  
-**Master's Degree in Applied Mathematics** - UAM Iztapalapa (2024)  
-**Master's Degree in Applied Mathematics** - UAM Iztapalapa (2024)  
+**Master's Degree in Applied Mathematics** - UAM Iztapalapa (2024)
 
 ---
 
@@ -41,6 +40,13 @@ _Covered:_ Swift Storyboard, Swift UI, CoreData, MetalKit, and HealthKit
 
 **Diploma in Data Science for BANJERCITO** - DE-TRES (2024)  
 _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning  
+
+### Constancias
+
+![c1](./assets/c1.png)
+![c1](./assets/c2.png)
+![c1](./assets/c3.png)
+![c1](./assets/c4.png)
 
 ---
 

@@ -1,6 +1,6 @@
 # Alan Badillo Salas | Portafolio
 
-**Email:** [badillosalas@outlook.com](mailto:badillosalas@outlook.com)
+**Email:** [badillosalas@outlook.com](mailto:badillosalas@outlook.com)  
 **Phone:** (+52) 771 417 0313
 
 ---

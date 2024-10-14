@@ -1,6 +1,6 @@
 # Alan Badillo Salas | Portafolio
 
-**Email:** [alan@nomadacode.com](mailto:alan@nomadacode.com)  
+**Email:** [badillosalas@outlook.com](mailto:badillosalas@outlook.com)
 **Phone:** (+52) 771 417 0313
 
 ---
@@ -9,8 +9,7 @@
 
 **Software Engineer** - UPP (2007)  
 **Bachelor's Degree in Applied Mathematics** - UAM Cuajimalpa (2010)  
-**Master's Degree in Artificial Intelligence** - IPN CIDETEC (2016)  
-**Master's Degree in Applied Mathematics** - UAM Iztapalapa (2024)
+**Master's Degree in Artificial Intelligence** - IPN CIDETEC (2016)
 
 ---
 
@@ -41,7 +40,7 @@ _Covered:_ Swift Storyboard, Swift UI, CoreData, MetalKit, and HealthKit
 **Diploma in Data Science for BANJERCITO** - DE-TRES (2024)  
 _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning  
 
-### Constancias
+### Certificates
 
 ![c1](./assets/c1.png)
 ![c2](./assets/c2.png)
@@ -52,7 +51,25 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ## Projects
 
-**Grupponera - Payroll and Employee Benefits Management Platform** (2023)  
+**Mobile Urban Parking Solution Platform** (2020)  
+**Position:** Product Design and Developer  
+**Technologies:** Arduino, RaspberryPI, Python, MongoDB, Whatsapp API  
+**Highlights:** Socket communication, Chatbot, Payment, QR.
+
+![urvan-00](./assets/urvan-00.png)
+![urvan-01](./assets/urvan-01.png)
+![urvan-02](./assets/urvan-02.png)
+![urvan-03](./assets/urvan-03.png)
+![urvan-04](./assets/urvan-04.png)
+
+**Sell and Payment Farmacy Store Platform** (2021)  
+**Position:** Software Architect and Development Lead  
+**Technologies:** ReactJS, NodeJS, SQL Server, AWS EC2  
+**Highlights:** Socket communication, Chatbot, Payment, QR.
+
+![pad-00](./assets/pad-00.png)
+
+**Payroll and Employee Benefits Management Platform** (2022)  
 **Position:** Software Architect and Development Lead  
 **Technologies:** React, Android, Swift UI, NodeJS, Oracle SQL, AWS EC2/S3  
 **Highlights:** Payroll history and ticket follow-up requests, digital signature in processes  
@@ -64,7 +81,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ---
 
-**LockitCell - Mobile Financing Management Platform** (2024)  
+**Mobile Financing Management Platform** (2023)  
 **Position:** Software Architect and Development Lead  
 **Technologies:** React, React Native, NodeJS, MongoDB, AWS EC2, Stripe, Paypal  
 **Highlights:** Inventory Control, Point of Sale/Payment, WhatsApp Messaging  
@@ -76,7 +93,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ---
 
-**Economy - Economic Regionalization Analysis in Mexican Municipalities** (2024)  
+**Economic Regionalization Analysis in Mexican Municipalities** (2024)  
 **Position:** Data Analyst  
 **Technologies:** Python, Numpy, Geopandas, Scikit-learn, TensorFlow  
 **Highlights:** Clustering, Map Generation, Affinity/Complexity Analysis  

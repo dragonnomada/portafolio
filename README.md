@@ -71,7 +71,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 **Payroll and Employee Benefits Management Platform** (2022)  
 **Position:** Software Architect and Development Lead  
-**Technologies:** React, Android, Swift UI, NodeJS, Oracle SQL, AWS EC2/S3  
+**Technologies:** React, Android, Swift UI, Java Spring, Oracle SQL, AWS EC2/S3  
 **Highlights:** Payroll history and ticket follow-up requests, digital signature in processes  
 
 ![pb0](./assets/pb0.png)

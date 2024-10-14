@@ -20,7 +20,7 @@ With **10 years of professional experience** advising development teams and prov
 
 ---
 
-## Teaching
+# Teaching Experience
 
 **Diploma in Java** - IPN CIC (2017)  
 _Covered:_ Java EE, Java Swing, Java Spring, and MySQL  
@@ -49,9 +49,9 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ---
 
-## Projects
+# Projects
 
-**Mobile Urban Parking Solution Platform** (2020)  
+## **Mobile Urban Parking Solution Platform** (2020)  
 **Position:** Product Design and Developer  
 **Technologies:** Arduino, RaspberryPI, Python, MongoDB, Whatsapp API  
 **Highlights:** Socket communication, Chatbot, Payment, QR.
@@ -69,7 +69,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ![pad-00](./assets/pad-00.png)
 
-**Payroll and Employee Benefits Management Platform** (2022)  
+## **Payroll and Employee Benefits Management Platform** (2022)  
 **Position:** Software Architect and Development Lead  
 **Technologies:** React, Android, Swift UI, Java Spring, Oracle SQL, AWS EC2/S3  
 **Highlights:** Payroll history and ticket follow-up requests, digital signature in processes  
@@ -79,9 +79,17 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 ![pb2](./assets/pb2.png)
 ![pb3](./assets/pb3.png)
 
+> User Manual
+
+![pb4](./assets/grupponera-manual-01.png)
+![pb5](./assets/grupponera-manual-02.png)
+![pb6](./assets/grupponera-manual-03.png)
+![pb7](./assets/grupponera-manual-04.png)
+
 ---
 
-**Mobile Financing Management Platform** (2023)  
+## **Mobile Financing Management Platform** (2023)  
+
 **Position:** Software Architect and Development Lead  
 **Technologies:** React, React Native, NodeJS, MongoDB, AWS EC2, Stripe, Paypal  
 **Highlights:** Inventory Control, Point of Sale/Payment, WhatsApp Messaging  
@@ -93,7 +101,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ---
 
-**Economic Regionalization Analysis in Mexican Municipalities** (2024)  
+## **Economic Regionalization Analysis in Mexican Municipalities** (2024)  
 **Position:** Data Analyst  
 **Technologies:** Python, Numpy, Geopandas, Scikit-learn, TensorFlow  
 **Highlights:** Clustering, Map Generation, Affinity/Complexity Analysis  
@@ -105,7 +113,7 @@ _Covered:_ Excel, PowerBI, Pandas, Numpy, Machine Learning, and Deep Learning
 
 ---
 
-## Skills
+# Skills
 
 **Programming Languages:** C/C++, C#, Java, Swift, Ruby, Python, JavaScript, PHP  
 **Development Platforms:** Java EE, Java Spring, NodeJS, ExpressJS, React, Angular, Vue  
